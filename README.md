@@ -6,5 +6,5 @@
 - 💬 Ask me about Python, MATLAB, and signal processing  
 - 📫 How to reach me: padwait205@gmail.com  or adwait.patkhedkar23@spit.ac.in
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I can wake up at any time of the day! 
+- ⚡ Fun fact: There are no fun facts about me, hopefully this counts as a fact! 
 
